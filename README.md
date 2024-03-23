@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey there, be welcome!</h1>
 
 ## 🖖 About me
-In 2021, I discovered my passion for front-end technologies starting with the classics HTML5 and CSS3, and ever since, I've been immersed in crafting various applications. I've now honed my expertise in React and JavaScript , while continuously exploring innovative technologies. 🌟
+In 2021, I discovered my passion for FrontEnd technologies starting with the classics HTML5 and CSS3, and ever since, I've been immersed in crafting various applications. I've now honed my expertise in React and JavaScript , while continuously exploring innovative technologies. 🌟
 <br>
 
 ## ⚡ Technologies & Skills
