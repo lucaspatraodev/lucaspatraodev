@@ -1,4 +1,5 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=202736&height=160&section=header&text=Welcome to my GitHub!&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+Hey, there! 👋
+
 ## 🖖 About me
 In 2021, I discovered my passion for front-end technologies starting with the classics HTML5 and CSS3, and ever since, I've been immersed in crafting various applications. I've now honed my expertise in React and JavaScript , while continuously exploring innovative technologies. 🌟
 <br>
