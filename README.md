@@ -11,7 +11,8 @@ In 2021, I discovered my passion for FrontEnd technologies starting with the cla
   <img align="center" alt="css"         height="30" width="40" src="https://img.icons8.com/color/512/css3.png">
  
   <img align="center" alt="Javascript"      height="30" width="40" src="https://xesque.rocketseat.dev/platform/tech/javascript.svg">
-  <img align="center" alt="React"height="30" width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png"> <img align="center" alt="Typescript" height="30" width="40" src="https://img.icons8.com/fluency/344/typescript.png">   <img align="center" alt="asp.net"         height="30" width="40"             src="https://img.icons8.com/color/512/net-framework.png">
+  <img align="center" alt="React"height="30" width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png">
+  <img align="center" alt="Typescript" height="30" width="40" src="https://img.icons8.com/fluency/344/typescript.png"> 
 </div>
 
 ## 🕒 What I'm Currently Doing
