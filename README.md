@@ -6,7 +6,7 @@ In 2021, I discovered my passion for FrontEnd technologies starting with the cla
 
 ## ⚡ Technologies & Skills
 <div align="center">
-  <img align="center" alt="Html"         height="30" width="40" src="https://img.icons8.com/color/512/html-5.png](https://github.com/user-attachments/assets/71a00787-904d-4c7a-a2e5-c50315061f36">
+  <img align="center" alt="NextJS"         height="30" width="40" src="https://github.com/user-attachments/assets/71a00787-904d-4c7a-a2e5-c50315061f36">
   <img align="center" alt="Html"         height="30" width="40" src="https://img.icons8.com/color/512/html-5.png">
   <img align="center" alt="css"         height="30" width="40" src="https://img.icons8.com/color/512/css3.png">
  
