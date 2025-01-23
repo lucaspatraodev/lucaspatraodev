@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey there, be welcome!</h1>
 
 ## 🖖 About me
-In 2021, I discovered my passion for FrontEnd technologies starting with the classics HTML5 and CSS3, and ever since, I've been immersed in crafting various applications. I've now honed my expertise in React and JavaScript , while continuously exploring innovative technologies. 🌟
+In 2021, I discovered my passion for programming starting with the classics HTML5 and CSS3, and ever since, I've been immersed in crafting various applications. I'm a professional developer ready for develope both front and back end! 🌟
 <br>
 
 ## ⚡ Technologies & Skills
@@ -17,7 +17,7 @@ In 2021, I discovered my passion for FrontEnd technologies starting with the cla
 
 ## 🕒 What I'm Currently Doing
 
-* 🔭 Currently, I'm a Computer Science student at UAM and a freelance professional, actively seeking a       full-time position.
+* 🔭 Currently, I'm a Computer Science student at Universidade de Santo Amaro and a freelance professional, actively seeking a full-time position.
 * ⚡ Freelancer specializing in custom solutions for clients.
 * 💼 Currently seeking new opportunities to contribute my expertise and passion to exciting projects.
 
