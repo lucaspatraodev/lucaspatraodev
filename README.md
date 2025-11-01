@@ -6,13 +6,13 @@ In 2021, I discovered my passion for programming starting with the classics HTML
 
 ## ⚡ Technologies & Skills
 <div align="center">
-  <img align="center" alt="NextJS"         height="30" width="40" src="https://github.com/user-attachments/assets/71a00787-904d-4c7a-a2e5-c50315061f36">
-  <img height="30" width="40" alt="image" src="https://github.com/user-attachments/assets/71f82502-5e50-41fa-933a-c8d43d64dcdf" />
+  <img align="center" alt="NextJS" height="30" width="40" src="https://github.com/user-attachments/assets/71a00787-904d-4c7a-a2e5-c50315061f36">
+  <img align="center" height="30" width="40" alt="image" src="https://github.com/user-attachments/assets/71f82502-5e50-41fa-933a-c8d43d64dcdf" />
   <img align="center" alt="PHP" height="30" width="40" src="https://www.php.net/images/logos/new-php-logo.svg">
   <img align="center" alt="Html"         height="30" width="40" src="https://img.icons8.com/color/512/html-5.png">
   <img align="center" alt="css"         height="30" width="40" src="https://img.icons8.com/color/512/css3.png">
   <img align="center" alt="Javascript"      height="30" width="40" src="https://xesque.rocketseat.dev/platform/tech/javascript.svg">
-  <img align="center" alt="React"height="30" width="40" src="https://cdn.icon-       icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png">
+  <img align="center height="30" width="40" src="https://github.com/user-attachments/assets/e48da70b-8b4c-4a8f-8ae7-e9542fa42011" />
   <img align="center" alt="Typescript" height="30" width="40" src="https://img.icons8.com/fluency/344/typescript.png"> 
 </div>
 
