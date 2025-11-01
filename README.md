@@ -7,19 +7,20 @@ In 2021, I discovered my passion for programming starting with the classics HTML
 ## ⚡ Technologies & Skills
 <div align="center">
   <img align="center" alt="NextJS"         height="30" width="40" src="https://github.com/user-attachments/assets/71a00787-904d-4c7a-a2e5-c50315061f36">
+  <img align="center" alt="PHP" height="30" width="40" src="https://img.icons8.com/fluency/344/php.png">
+  <img align="center" alt="SQL Server" height="30" width="40" src="https://img.icons8.com/fluency/344/microsoft-sql-server.png">
   <img align="center" alt="Html"         height="30" width="40" src="https://img.icons8.com/color/512/html-5.png">
   <img align="center" alt="css"         height="30" width="40" src="https://img.icons8.com/color/512/css3.png">
- 
   <img align="center" alt="Javascript"      height="30" width="40" src="https://xesque.rocketseat.dev/platform/tech/javascript.svg">
-  <img align="center" alt="React"height="30" width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png">
+  <img align="center" alt="React"height="30" width="40" src="https://cdn.icon-       icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png">
   <img align="center" alt="Typescript" height="30" width="40" src="https://img.icons8.com/fluency/344/typescript.png"> 
 </div>
 
 ## 🕒 What I'm Currently Doing
 
-* 🔭 Currently, I'm a Computer Science student at Universidade de Santo Amaro and a freelance professional, actively seeking a full-time position.
-* ⚡ Freelancer specializing in custom solutions for clients.
-* 💼 Currently seeking new opportunities to contribute my expertise and passion to exciting projects.
+* 🔭 Full Stack Developer | Systems Analysis and Development Student @ Universidade Anhaguera
+* 💼 Constantly pushing boundaries and mastering new technologies
+* ❤️ Passionate about crafting elegant solutions and turning ideas into reality
 
 <p align="center">
 
