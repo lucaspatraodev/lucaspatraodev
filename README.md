@@ -12,7 +12,7 @@ In 2021, I discovered my passion for programming starting with the classics HTML
   <img align="center" alt="Html"         height="30" width="40" src="https://img.icons8.com/color/512/html-5.png">
   <img align="center" alt="css"         height="30" width="40" src="https://img.icons8.com/color/512/css3.png">
   <img align="center" alt="Javascript"      height="30" width="40" src="https://xesque.rocketseat.dev/platform/tech/javascript.svg">
-  <img align="center height="30" width="40" src="https://github.com/user-attachments/assets/e48da70b-8b4c-4a8f-8ae7-e9542fa42011" />
+  <img align="center" height="30" width="40" src="https://github.com/user-attachments/assets/385104a6-dec0-47e1-bafe-f3effe5fa973" />
   <img align="center" alt="Typescript" height="30" width="40" src="https://img.icons8.com/fluency/344/typescript.png"> 
 </div>
 
