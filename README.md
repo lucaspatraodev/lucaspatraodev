@@ -6,7 +6,7 @@ In 2021, I discovered my passion for programming starting with the classics HTML
 
 ## ⚡ Technologies & Skills
 <div align="center">
-  <img align="center" alt="Laravel" height="30" width="40" src="https://github.com/user-attachments/assets/7152e346-40fb-4645-bf41-2efbff522dad" />
+  <img align="center" alt="Laravel" height="40" width="40" src="https://github.com/user-attachments/assets/7152e346-40fb-4645-bf41-2efbff522dad" />
   <img align="center" alt="NextJS" height="30" width="40" src="https://github.com/user-attachments/assets/71a00787-904d-4c7a-a2e5-c50315061f36">
   <img align="center" height="30" width="40" alt="image" src="https://github.com/user-attachments/assets/71f82502-5e50-41fa-933a-c8d43d64dcdf" />
   <img align="center" alt="PHP" height="30" width="40" src="https://www.php.net/images/logos/new-php-logo.svg">
