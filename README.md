@@ -6,13 +6,13 @@ In 2021, I discovered my passion for programming starting with the classics HTML
 
 ## ⚡ Technologies & Skills
 <div align="center">
-  <img align="center" alt="Laravel" height="30" width="40" src="https://github.com/user-attachments/assets/92ebc8a7-18b2-4bdd-8565-880dc1fdcbb3" /> 
+  <img align="center" alt="Laravel" height="30" width="40" src="https://github.com/user-attachments/assets/7152e346-40fb-4645-bf41-2efbff522dad" />
   <img align="center" alt="NextJS" height="30" width="40" src="https://github.com/user-attachments/assets/71a00787-904d-4c7a-a2e5-c50315061f36">
   <img align="center" height="30" width="40" alt="image" src="https://github.com/user-attachments/assets/71f82502-5e50-41fa-933a-c8d43d64dcdf" />
   <img align="center" alt="PHP" height="30" width="40" src="https://www.php.net/images/logos/new-php-logo.svg">
-  <img align="center" alt="Html"         height="30" width="40" src="https://img.icons8.com/color/512/html-5.png">
-  <img align="center" alt="css"         height="30" width="40" src="https://img.icons8.com/color/512/css3.png">
-  <img align="center" alt="Javascript"      height="30" width="40" src="https://xesque.rocketseat.dev/platform/tech/javascript.svg">
+  <img align="center" alt="Html" height="30" width="40" src="https://img.icons8.com/color/512/html-5.png">
+  <img align="center" alt="css" height="30" width="40" src="https://img.icons8.com/color/512/css3.png">
+  <img align="center" alt="Javascript" height="30" width="40" src="https://xesque.rocketseat.dev/platform/tech/javascript.svg">
   <img align="center" height="30" width="40" src="https://github.com/user-attachments/assets/385104a6-dec0-47e1-bafe-f3effe5fa973" />
   <img align="center" alt="Typescript" height="30" width="40" src="https://img.icons8.com/fluency/344/typescript.png"> 
 </div>
