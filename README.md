@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey there, be welcome!</h1>
 
 ## 🖖 About me
-In 2021, I discovered my passion for programming starting with the classics HTML5 and CSS3, and ever since, I've been immersed in crafting various applications. I'm a professional developer ready for develope both front and back end! 🌟
+In 2021, I discovered my passion for programming and ever since, I've been immersed in crafting various applications. I'm a professional developer ready for develop both front and back end! 🌟
 <br>
 
 ## ⚡ Technologies & Skills
@@ -19,7 +19,7 @@ In 2021, I discovered my passion for programming starting with the classics HTML
 
 ## 🕒 What I'm Currently Doing
 
-* 🔭 Full Stack Developer | Systems Analysis and Development Student @ Universidade Anhaguera
+* 🔭 Full Stack Developer @ Grupo Rubi | Systems Analysis and Development Student @ Universidade Anhaguera
 * 💼 Constantly pushing boundaries and mastering new technologies
 * ❤️ Passionate about crafting elegant solutions and turning ideas into reality
 
