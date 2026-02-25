@@ -19,7 +19,7 @@ In 2021, I discovered my passion for programming and ever since, I've been immer
 
 ## 🕒 What I'm Currently Doing
 
-* 🔭 Full Stack Developer @ Grupo Rubi | Systems Analysis and Development Student @ Universidade Anhaguera
+* 🔭 Systems Analysis and Development Student @ Universidade Anhaguera
 * 💼 Constantly pushing boundaries and mastering new technologies
 * ❤️ Passionate about crafting elegant solutions and turning ideas into reality
 
