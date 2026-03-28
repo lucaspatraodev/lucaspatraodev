@@ -20,7 +20,7 @@ In 2021, I discovered my passion for programming and ever since, I've been immer
 ## 🕒 What I'm Currently Doing
 
 * 🔭 Systems Analysis and Development Student @ Universidade Anhaguera
-* 💼 Constantly pushing boundaries and mastering new technologies
+* 💼 Fullstack Developer @ Amar Assist
 * ❤️ Passionate about crafting elegant solutions and turning ideas into reality
 
 <p align="center">
